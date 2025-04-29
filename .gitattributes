@@ -1,2 +1,42 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+save
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Github</title>
+  </head>
+  <body>
+    <form action="submit"></form>
+    <input placeholder="Enter a city" type="text" />
+    <input type="submit" value="Search" />
+    <h1>London</h1>
+
+    <h2>Saturday 16:00, mist <br />Humidity:84% Wind:5mph</h2>
+    <div>🥶1°C</div>
+
+    <ul>
+      <li>Sunday ☁️<br /><strong>-2°C</strong> | 5°C</li>
+    </ul>
+
+    <ul>
+      <li>Monday🌨️<br /><strong>3°C</strong> | 11°C</li>
+    </ul>
+
+    <ul>
+      <li>Tuesday⛅<br /><strong>1°C</strong> | 5°C</li>
+    </ul>
+
+    <ul>
+      <li>Wednesday☁️<br /><strong>-1°C</strong> | 2°C</li>
+    </ul>
+
+    <ul>
+      <li>Thursday❄️<br /><strong>-2°C</strong> | 2°C</li>
+    </ul>
+
+    <footer>This page was coded by <a href="">Fabiana Noll</a></footer>
+  </body>
+</html>
